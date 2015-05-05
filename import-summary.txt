@@ -1,0 +1,251 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\libraries\
+* .idea\libraries\libs.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* LICENSE
+* README.md
+* build.xml
+* out\
+* out\production\
+* out\production\spydroid-ipcamera\
+* out\production\spydroid-ipcamera\net\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModAssetServer$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModAssetServer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModInternationalization$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModInternationalization.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModSSL$CertificateFactory.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModSSL$X509KeyManager.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\ModSSL.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$CallbackListener.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$HttpRequestListener.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$HttpsRequestListener.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$LocalBinder.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$MHttpContext.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$MHttpRequestHandlerRegistry.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$RequestListener.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer$WorkerThread.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\http\TinyHttpServer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\BuildConfig.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$anim.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$array.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$attr.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$drawable.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$id.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$layout.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$menu.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$raw.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$string.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R$xml.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\R.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\SpydroidApplication$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\SpydroidApplication$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\SpydroidApplication.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\Utilities.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer$CustomRequestHandler$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer$CustomRequestHandler.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer$DescriptionRequestHandler$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer$DescriptionRequestHandler$SessionInfo.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer$DescriptionRequestHandler.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomHttpServer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\CustomRtspServer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\RequestHandler$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\api\RequestHandler.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\AboutFragment$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\AboutFragment$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\AboutFragment$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\AboutFragment.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\HandsetFragment$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\HandsetFragment$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\HandsetFragment$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\HandsetFragment$4.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\HandsetFragment$5.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\HandsetFragment.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$4.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$5.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$6.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity$7.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\OptionsActivity.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\PreviewFragment$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\PreviewFragment$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\PreviewFragment$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\PreviewFragment.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$2$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$4$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$4.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity$SectionsPagerAdapter.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\SpydroidActivity.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\spydroid\ui\TabletFragment.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\MediaStream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$10.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$11.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$12.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$13.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$14.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$15.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$16.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$4.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$5.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$6.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$7.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$8.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$9.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session$Callback.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Session.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\SessionBuilder.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\Stream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\audio\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\audio\AACStream$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\audio\AACStream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\audio\AMRNBStream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\audio\AudioQuality.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\audio\AudioStream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\exceptions\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\exceptions\CameraInUseException.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\exceptions\ConfNotSupportedException.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\exceptions\InvalidSurfaceException.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\exceptions\StorageUnavailableException.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\gl\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\gl\SurfaceManager.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\gl\SurfaceView.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\gl\TextureManager.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\hw\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\hw\CodecManager$Codec.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\hw\CodecManager.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\hw\EncoderDebugger$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\hw\EncoderDebugger.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\hw\NV21Convertor.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\mp4\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\mp4\MP4Config.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\mp4\MP4Parser.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\mp4\StsdBox.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtcp\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtcp\SenderReport.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\AACADTSPacketizer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\AACLATMPacketizer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\AMRNBPacketizer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\AbstractPacketizer$Statistics.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\AbstractPacketizer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\H263Packetizer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\H264Packetizer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\MediaCodecInputStream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\RtpSocket$AverageBitrate.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\RtpSocket$Statistics.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtp\RtpSocket.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$4.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$5.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$6.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$7.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$Callback.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$Parameters.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient$Response.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspClient.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$CallbackListener.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$LocalBinder.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$Request.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$RequestListener.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$Response.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer$WorkerThread.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\RtspServer.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\rtsp\UriParser.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\CodecManager$Codecs.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\CodecManager$Selector.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\CodecManager$Translator.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\CodecManager.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\H263Stream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\H264Stream$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\H264Stream.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoQuality.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoStream$1.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoStream$2.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoStream$3.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoStream$4.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoStream$5.class
+* out\production\spydroid-ipcamera\net\majorkernelpanic\streaming\video\VideoStream.class
+* proguard.cfg
+* spydroid-ipcamera.iml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+gcm.jar => com.google.android.gms:play-services:+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\acra-4.4.0.jar => app\libs\acra-4.4.0.jar
+* libs\GoogleAdMobAdsSdk-6.1.0.jar => app\libs\GoogleAdMobAdsSdk-6.1.0.jar
+* libs\sc-light-jdk15on-1.47.0.2.jar => app\libs\sc-light-jdk15on-1.47.0.2.jar
+* libs\scpkix-jdk15on-1.47.0.2.jar => app\libs\scpkix-jdk15on-1.47.0.2.jar
+* libs\scprov-jdk15on-1.47.0.2.jar => app\libs\scprov-jdk15on-1.47.0.2.jar
+* lint.xml => app\lint.xml
+* proguard-project.txt => app\proguard-project.txt
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
