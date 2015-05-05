@@ -22,7 +22,7 @@ package net.majorkernelpanic.spydroid.api;
 
 import java.lang.reflect.Field;
 
-import net.majorkernelpanic.spydroid.R;
+import com.pietrantuono.test.R;
 import net.majorkernelpanic.spydroid.SpydroidApplication;
 import net.majorkernelpanic.streaming.SessionBuilder;
 import net.majorkernelpanic.streaming.video.VideoQuality;

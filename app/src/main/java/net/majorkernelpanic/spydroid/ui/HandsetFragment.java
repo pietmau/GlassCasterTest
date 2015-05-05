@@ -23,7 +23,7 @@ package net.majorkernelpanic.spydroid.ui;
 import java.util.Locale;
 
 import net.majorkernelpanic.http.TinyHttpServer;
-import net.majorkernelpanic.spydroid.R;
+
 import net.majorkernelpanic.spydroid.SpydroidApplication;
 import net.majorkernelpanic.spydroid.Utilities;
 import net.majorkernelpanic.spydroid.api.CustomHttpServer;
@@ -48,6 +48,8 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.pietrantuono.test.R;
 
 public class HandsetFragment extends Fragment {
 

@@ -28,7 +28,7 @@ import static net.majorkernelpanic.http.TinyHttpServer.KEY_HTTP_PORT;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import net.majorkernelpanic.spydroid.R;
+import com.pietrantuono.test.R;
 import net.majorkernelpanic.spydroid.SpydroidApplication;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;

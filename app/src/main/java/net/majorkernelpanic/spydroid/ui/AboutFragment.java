@@ -20,7 +20,7 @@
 
 package net.majorkernelpanic.spydroid.ui;
 
-import net.majorkernelpanic.spydroid.R;
+import com.pietrantuono.test.R;
 import net.majorkernelpanic.spydroid.SpydroidApplication;
 import android.content.Intent;
 import android.net.Uri;

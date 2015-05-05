@@ -21,7 +21,7 @@
 package net.majorkernelpanic.spydroid.ui;
 
 import net.majorkernelpanic.http.TinyHttpServer;
-import net.majorkernelpanic.spydroid.R;
+import com.pietrantuono.test.R;
 import net.majorkernelpanic.spydroid.api.CustomHttpServer;
 import net.majorkernelpanic.spydroid.api.CustomRtspServer;
 import net.majorkernelpanic.streaming.SessionBuilder;
