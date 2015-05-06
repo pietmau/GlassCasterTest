@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\classes-8cfb777e1312b922861d431cbcc874aab0dc87bc.jar" />
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-a2da3b5cf980d75a84e9ea7d4ee93cc49a49182d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maurizio\.gradle\caches\modules-2\files-2.1\com.madgag\scpkix-jdk15on\1.47.0.3\5a2856bb520c462a474802b73f12a81be4cfd200\scpkix-jdk15on-1.47.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5a2856bb520c462a474802b73f12a81be4cfd200">
+        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\scpkix-jdk15on-1.47.0.3-d911ce0818dbe3eb004ee3b1bbc8fddc3922cec1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Maurizio\.gradle\caches\modules-2\files-2.1\com.madgag\scprov-jdk15on\1.47.0.3\a1ff8a74a7013c4ada7e4d20d335b302d147ddd1\scprov-jdk15on-1.47.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1ff8a74a7013c4ada7e4d20d335b302d147ddd1">
+        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\scprov-jdk15on-1.47.0.3-9f0b30a0e189a84609532c436582f10d59b27422.jar" />
     </item>
     <item
         jar="C:\Users\Maurizio\git\spydroid-ipcamera1\app\libs\acra-4.4.0.jar"
@@ -23,6 +37,13 @@
         <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-e1964626f15326801ed4f4b9ecdcb4eae67a6c39.jar" />
     </item>
     <item
+        jar="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\classes-8cfb777e1312b922861d431cbcc874aab0dc87bc.jar" />
+    </item>
+    <item
         jar="C:\Users\Maurizio\.gradle\caches\modules-2\files-2.1\com.madgag\sc-light-jdk15on\1.47.0.3\ee5043d8e50e46b0daca4e798f52d7532c27b0c4\sc-light-jdk15on-1.47.0.3.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -30,32 +51,11 @@
         <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\sc-light-jdk15on-1.47.0.3-fbab60f4d94ff3d35171785f36db558d6ddd020c.jar" />
     </item>
     <item
-        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-a2da3b5cf980d75a84e9ea7d4ee93cc49a49182d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maurizio\.gradle\caches\modules-2\files-2.1\com.madgag\scprov-jdk15on\1.47.0.3\a1ff8a74a7013c4ada7e4d20d335b302d147ddd1\scprov-jdk15on-1.47.0.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1ff8a74a7013c4ada7e4d20d335b302d147ddd1">
-        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\scprov-jdk15on-1.47.0.3-9f0b30a0e189a84609532c436582f10d59b27422.jar" />
-    </item>
-    <item
         jar="C:\Users\Maurizio\git\spydroid-ipcamera1\app\libs\GoogleAdMobAdsSdk-6.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="0d7313ca1a34c9ce2de798006511a4b6bc26b90b">
         <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.1.0-b2de9e38a816ae75ee1bc3693d138327ed00f25e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Maurizio\.gradle\caches\modules-2\files-2.1\com.madgag\scpkix-jdk15on\1.47.0.3\5a2856bb520c462a474802b73f12a81be4cfd200\scpkix-jdk15on-1.47.0.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5a2856bb520c462a474802b73f12a81be4cfd200">
-        <dex dex="C:\Users\Maurizio\git\spydroid-ipcamera1\app\build\intermediates\pre-dexed\debug\scpkix-jdk15on-1.47.0.3-d911ce0818dbe3eb004ee3b1bbc8fddc3922cec1.jar" />
     </item>
 
 </items>
