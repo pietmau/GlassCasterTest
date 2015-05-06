@@ -3,13 +3,14 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background"
+    android:background="@android:color/transparent"
     android:gravity="center"
     android:orientation="vertical" >
 
     <!-- Logo and version -->
 
     <RelativeLayout
+        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
@@ -43,6 +44,7 @@
     </RelativeLayout>
 
     <TextView
+        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
@@ -103,6 +105,8 @@
             android:orientation="vertical" >
 
             <TextView
+                android:textColor="@android:color/transparent"
+                android:visibility="invisible"
                 android:id="@+id/line1_description"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -110,26 +114,30 @@
                 android:textSize="15sp" />
 
             <TextView
+                android:textColor="@android:color/transparent"
+                android:visibility="invisible"
                 android:id="@+id/line1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:textColor="@android:color/white"
                 android:textSize="15sp" />
 
             <TextView
+                android:textColor="@android:color/black"
                 android:id="@+id/line2_description"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/line2"
-                android:textSize="15sp" />
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                 />
 
             <TextView
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/black"
                 android:id="@+id/line2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@android:color/white"
-                android:textSize="15sp" />
+                 />
         </LinearLayout>
     </FrameLayout>
 

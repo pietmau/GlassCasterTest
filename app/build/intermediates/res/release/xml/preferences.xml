@@ -73,7 +73,7 @@
     
     <PreferenceCategory android:title="@string/settings28" >
         <CheckBoxPreference
-            android:defaultValue="false"
+            android:defaultValue="true"
             android:key="rtsp_enabled"
             android:summary="@string/settings30"
             android:title="@string/settings29" />              

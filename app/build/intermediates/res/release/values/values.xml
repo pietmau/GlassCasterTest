@@ -68,7 +68,7 @@
     <string name="about3">You might also like it on facebook, why not ? Come on, like it ! It will be our little secret</string>
     <string name="about4">Have Fun !</string>
     <string name="about5">Help me to translate Spydroid in other languages ! If you are willing to help me in this crazy quest, send me a mail :)</string>
-    <string name="app_name">Spydroid</string>
+    <string name="app_name">Test</string>
     <string name="bind_failed">You need to choose another port for the %s server !</string>
     <string name="bitrate">0 kbps</string>
     <string name="description">Capture live video and audio streaming from your smartphone with Spydroid</string>
@@ -117,4 +117,14 @@
     <string name="settings9">Video encoder</string>
     <string name="streaming">Streaming !</string>
     <string name="warning">Turn on wifi or tethering !</string>
+    <!-- From: file:/C:/Users/Maurizio/git/spydroid-ipcamera1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
 </resources>

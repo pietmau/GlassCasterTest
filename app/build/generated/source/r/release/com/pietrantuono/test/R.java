@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package net.majorkernelpanic.spydroid;
+package com.pietrantuono.test;
 
 public final class R {
     public static final class anim {
@@ -33,32 +33,32 @@ public final class R {
         public static final int settings=0x7f020005;
     }
     public static final class id {
-        public static final int adcontainer=0x7f0a0013;
-        public static final int advice=0x7f0a0009;
-        public static final int bitrate=0x7f0a0008;
-        public static final int handset=0x7f0a0017;
-        public static final int handset_camera_view=0x7f0a0011;
-        public static final int handset_pager=0x7f0a0012;
-        public static final int imageView1=0x7f0a0004;
-        public static final int information=0x7f0a000a;
-        public static final int like=0x7f0a0002;
-        public static final int line1=0x7f0a000c;
-        public static final int line1_description=0x7f0a000b;
-        public static final int line2=0x7f0a000e;
-        public static final int line2_description=0x7f0a000d;
-        public static final int main=0x7f0a0003;
-        public static final int options=0x7f0a0018;
-        public static final int pager_title_strip=0x7f0a0014;
-        public static final int preview=0x7f0a0016;
-        public static final int quit=0x7f0a0019;
-        public static final int rate=0x7f0a0001;
-        public static final int streaming=0x7f0a0007;
-        public static final int tablet_camera_view=0x7f0a0010;
-        public static final int tablet_pager=0x7f0a0015;
-        public static final int textView1=0x7f0a0005;
-        public static final int tooltip=0x7f0a000f;
-        public static final int version=0x7f0a0006;
-        public static final int visit=0x7f0a0000;
+        public static final int adcontainer=0x7f0b0013;
+        public static final int advice=0x7f0b0009;
+        public static final int bitrate=0x7f0b0008;
+        public static final int handset=0x7f0b0017;
+        public static final int handset_camera_view=0x7f0b0011;
+        public static final int handset_pager=0x7f0b0012;
+        public static final int imageView1=0x7f0b0004;
+        public static final int information=0x7f0b000a;
+        public static final int like=0x7f0b0002;
+        public static final int line1=0x7f0b000c;
+        public static final int line1_description=0x7f0b000b;
+        public static final int line2=0x7f0b000e;
+        public static final int line2_description=0x7f0b000d;
+        public static final int main=0x7f0b0003;
+        public static final int options=0x7f0b0018;
+        public static final int pager_title_strip=0x7f0b0014;
+        public static final int preview=0x7f0b0016;
+        public static final int quit=0x7f0b0019;
+        public static final int rate=0x7f0b0001;
+        public static final int streaming=0x7f0b0007;
+        public static final int tablet_camera_view=0x7f0b0010;
+        public static final int tablet_pager=0x7f0b0015;
+        public static final int textView1=0x7f0b0005;
+        public static final int tooltip=0x7f0b000f;
+        public static final int version=0x7f0b0006;
+        public static final int visit=0x7f0b0000;
     }
     public static final class layout {
         public static final int about=0x7f030000;
@@ -68,7 +68,7 @@ public final class R {
         public static final int tablet=0x7f030004;
     }
     public static final class menu {
-        public static final int menu=0x7f090000;
+        public static final int menu=0x7f0a0000;
     }
     public static final class raw {
         public static final int animals_cat=0x7f060000;
@@ -142,7 +142,11 @@ public final class R {
         public static final int streaming=0x7f080035;
         public static final int warning=0x7f080036;
     }
+    public static final class style {
+        public static final int Theme_Transparent=0x7f090000;
+    }
     public static final class xml {
         public static final int preferences=0x7f050000;
+        public static final int voice_trigger=0x7f050001;
     }
 }

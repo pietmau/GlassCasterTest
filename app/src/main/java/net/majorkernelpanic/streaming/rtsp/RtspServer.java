@@ -222,8 +222,8 @@ public class RtspServer extends Service {
 		// Let's restore the state of the service 
 		mSharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
 		mPort = Integer.parseInt(mSharedPreferences.getString(KEY_PORT, String.valueOf(mPort)));
-		mEnabled = mSharedPreferences.getBoolean(KEY_ENABLED, mEnabled);
-
+		//mEnabled = mSharedPreferences.getBoolean(KEY_ENABLED, mEnabled);
+		mEnabled=true;
 		// If the configuration is modified, the server will adjust
 		mSharedPreferences.registerOnSharedPreferenceChangeListener(mOnSharedPreferenceChangeListener);
 

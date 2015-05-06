@@ -44,6 +44,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
@@ -75,8 +76,15 @@ public class HandsetFragment extends Fragment {
     	View rootView = inflater.inflate(R.layout.main,container,false);
         mLine1 = (TextView)rootView.findViewById(R.id.line1);
         mLine2 = (TextView)rootView.findViewById(R.id.line2);
+		Animation anim = new AlphaAnimation(0.0f, 1.0f);
+		anim.setDuration(500); //You can manage the blinking time with this parameter
+		anim.setStartOffset(10);
+		anim.setRepeatMode(Animation.REVERSE);
+		anim.setRepeatCount(Animation.INFINITE);
+		mLine2.startAnimation(anim);
         mDescription1 = (TextView)rootView.findViewById(R.id.line1_description);
         mDescription2 = (TextView)rootView.findViewById(R.id.line2_description);
+		mDescription2.startAnimation(anim);
         mVersion = (TextView)rootView.findViewById(R.id.version);
         mSignWifi = (TextView)rootView.findViewById(R.id.advice);
         mSignStreaming = (LinearLayout)rootView.findViewById(R.id.streaming);

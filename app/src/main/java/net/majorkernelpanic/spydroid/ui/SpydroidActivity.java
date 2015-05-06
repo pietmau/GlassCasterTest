@@ -110,7 +110,7 @@ public class SpydroidActivity extends FragmentActivity {
 		}
 		*/
         mViewPager.setAdapter(mAdapter);
-        mViewPager.setCurrentItem(1);
+        mViewPager.setCurrentItem(0);
         // Remove the ads if this is the donate version of the app.
         if (mApplication.DONATE_VERSION) {
             ((LinearLayout) findViewById(R.id.adcontainer)).removeAllViews();
