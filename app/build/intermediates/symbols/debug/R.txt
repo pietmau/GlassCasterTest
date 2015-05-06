@@ -115,3 +115,4 @@ int string settings9 0x7f080034
 int string streaming 0x7f080035
 int string warning 0x7f080036
 int xml preferences 0x7f050000
+int xml voice_trigger 0x7f050001
